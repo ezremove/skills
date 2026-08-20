@@ -1,0 +1,4 @@
+interface:
+  display_name: "EzRemove Background Remover"
+  short_description: "Remove image backgrounds with EzRemove AI"
+  default_prompt: "Use $ezremove-ezremove-remove-background to remove the background from this image."
